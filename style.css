@@ -1,0 +1,97 @@
+body{
+    background:url(flags-flag-of-bangladesh-wallpaper-preview.jpg);
+    background-size: 100%;
+}
+.bis{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: #fff;
+    
+}
+
+.logo{
+    background:rgb(73, 129, 73) ;
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 12px;
+    border-radius: 10px;
+    width: 190px;
+
+}
+.name{
+    width: 300px; 
+    padding: 10px;
+    font-style: italic;
+    background: transparent;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+
+}
+.name:hover{
+    box-shadow: -4px 5px  18px #fff;
+}
+.ep{
+    width: 300px; 
+    padding: 10px;
+    font-style: italic;
+    background: transparent;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+}
+.ep:hover{
+    box-shadow: -4px 5px  18px #fff;
+}
+.pass{
+    width: 300px; 
+    padding: 10px;
+    font-style: italic;
+    background: transparent;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid #fff;
+}
+.pass:hover{
+    box-shadow: -4px 5px  18px #fff;
+}
+.reset{
+    text-align: center;
+    width: 120px;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 22px;
+    margin: auto;
+    font-weight: bold;
+}
+.aa{
+    color: #fff;
+
+}
+.bb{
+    color: #fff;
+
+}
+.cc{
+    text-align: center;
+}
+.signup{
+    width: 120px;
+    color: #fff;
+   background: rgb(41, 173, 41);
+     font-weight: bold;
+     font-size: 20px;
+}
+.login{
+    width: 120px;
+    color: #fff;
+     background: rgb(41, 173, 41);
+     font-weight: bold;
+     font-size: 20px;
+}
